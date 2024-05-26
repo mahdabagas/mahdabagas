@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img  src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile!;My+name+is+Razzaaq+✨;An+Frontend+Enthusiast+👨‍💻!&font=Fira%20Code&center=true&width=380&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img  src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile!;My+name+is+Bagas+✨;An+Frontend+Enthusiast+👨‍💻!&font=Fira%20Code&center=true&width=380&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center"> I'm Bagas ✨, an Frontend Enthusiast. All Coding project are built from ground up, from planning, and designing all the way to solving problems with my code.
@@ -13,10 +13,10 @@
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>  -->
-  <a href="https://github.com/RazzaaqZul?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RazzaaqZul?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/RazzaaqZul?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RazzaaqZul?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/mahdabagas?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mahdabagas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/mahdabagas?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mahdabagas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <!-- <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
@@ -82,8 +82,8 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RazzaaqZul&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt=""/> <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RazzaaqZul&theme=dark&hide_border=false" alt=""/> <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazzaaqZul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=mahdabagas&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt=""/> <br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdabagas&theme=dark&hide_border=false" alt=""/> <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdabagas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt=""/>
 
 </p>
